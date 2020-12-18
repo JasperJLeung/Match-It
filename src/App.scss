@@ -1,0 +1,10 @@
+.game-board {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1rem;
+    position: relative;
+    height: 70vh;
+    width: 95%;
+    margin-left: 1rem;
+}

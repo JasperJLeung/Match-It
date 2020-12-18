@@ -1,0 +1,21 @@
+.instructions {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0;
+    position: relative;
+    border-radius: 0px;
+    height: 100px;
+
+    &__title {
+        color: red;
+        // font-size: 60px;
+    }
+    &__instructions{
+        color: white;
+        // font-size: 30px;
+    }
+}
